@@ -1,0 +1,11 @@
+{
+    "version": "1.0",
+    "admin_config" : {
+        "slack" : {
+            "slack_token_encrypted" : "SLACK_TOKEN"
+        },
+        "github" : {
+            "github_token_encrypted" : "GITHUB_TOKEN"
+        },
+    }
+}
