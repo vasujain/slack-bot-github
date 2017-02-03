@@ -5,7 +5,7 @@
             "slack_token_encrypted" : "Base64_encrypted_SLACK_TOKEN"
         },
         "github" : {
-            "github_token_encrypted" : "GITHUB_TOKEN"
-        },
+            "github_token_encrypted" : "Base64_encrypted_GITHUB_TOKEN"
+        }
     }
 }
